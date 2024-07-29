@@ -1,4 +1,4 @@
-﻿namespace assignment_16
+namespace assignment_16
 {
     internal class Program
     {
